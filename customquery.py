@@ -3,7 +3,7 @@ import pandas as pd
 import openai
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 # Function to query ChatGPT with a specific question and dataset context
 def query_chatgpt(question, context):
