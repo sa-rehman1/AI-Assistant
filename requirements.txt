@@ -1,4 +1,4 @@
-openai
+openai==1.12.0
 langchain
 streamlit
 pypdf
