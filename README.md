@@ -39,3 +39,10 @@ Open your web browser and go to the provided local URL to start using the AI-pow
 Notes
 Ensure that your API keys are valid and correctly set in the .env file.
 If you encounter any issues, refer to the Streamlit documentation or check the dependencies in the requirements.txt file.
+
+To access our deployed app :
+https://huggingface.co/spaces/MujtabaAhmed/AI-Powered-Assistant
+
+Note: The UI may change according to your device mode (dark/light).
+suggested mode would be light mode.
+
