@@ -12,7 +12,7 @@ from langchain.prompts import PromptTemplate
 
 def counsellor():
     
-    openai_key = "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"
+    openai_key = "your_api_key"
 
     persist_directory = 'wellness_cur/chroma'
 
