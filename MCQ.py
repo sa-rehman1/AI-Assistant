@@ -6,7 +6,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 from io import BytesIO
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 # Function to get MCQ questions from OpenAI GPT-3.5
 def generate_mcq_questions(topic, difficulty, num_questions):
