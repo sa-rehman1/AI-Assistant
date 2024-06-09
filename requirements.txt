@@ -1,0 +1,7 @@
+openai
+langchain
+streamlit
+pypdf
+python-docx
+tiktokem
+chromadb
