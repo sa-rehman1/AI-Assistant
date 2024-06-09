@@ -12,7 +12,7 @@ from animations import display_cards
 from customquery import query_chatgpt
 
 # Set up OpenAI API
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 # Cache data loading function to prevent refreshing
 @st.cache_data
