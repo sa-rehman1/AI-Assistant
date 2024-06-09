@@ -1,7 +1,12 @@
-openai==1.12.0
+openai
 langchain
-streamlit
-pypdf
-python-docx
-tiktokem
+langchain_community
+pandas
+matplotlib
+seaborn
+tiktoken
 chromadb
+pypdf
+docx
+python-docx
+streamlit
