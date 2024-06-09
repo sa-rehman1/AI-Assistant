@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 def generate_lesson_plan(unit_details, session_duration, num_sessions):
     prompt = f"""
